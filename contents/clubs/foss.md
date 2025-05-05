@@ -5,7 +5,7 @@ FOSS Club
 <div style="background: #f5f9f5; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center;">
 The FOSS Club at UCEK fosters open-source innovation through hands-on workshops and collaborative learning. Our community empowers students with practical skills and connects them with global open-source opportunities.
 
-[![Join Us](https://img.shields.io/badge/Join-FOSS_Community-purple?style=for-the-badge&logo=github)](https://example.com)
+[![Join Us](https://img.shields.io/badge/Join-FOSS_Community-purple?style=for-the-badge&logo=github)](https://fossucek.tech/)
 </div>
 
 ## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">🌱 Event Gallery</span>
