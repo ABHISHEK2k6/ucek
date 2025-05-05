@@ -2,10 +2,22 @@ FOSS Club
 
 ### <span style="color: black; font-weight: 500;">Empowering Students Through Open Source</span>
 
-<div style="background: #f5f9f5; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center;">
+<div style="background: #f5f9f5; display:flex; padding: 20px;flex-direction:column; border-radius: 8px; margin: 20px 0; text-align: center; align-items:center;">
 The FOSS Club at UCEK fosters open-source innovation through hands-on workshops and collaborative learning. Our community empowers students with practical skills and connects them with global open-source opportunities.
 
-[![Join Us](https://img.shields.io/badge/Join-FOSS_Community-purple?style=for-the-badge&logo=github)](https://fossucek.tech/)
+
+<a href="https://fossucek.tech/" style="text-decoration: none; font-family: sans-serif; margin:2rem 0 1rem 0;">
+  <span style="display: inline-flex; height: 28px; overflow: hidden; font-size: 13px; font-weight: bold; text-transform: uppercase;">
+    <span style="background-color: #4b4b4b; color: white; display: flex; align-items: center; padding: 0 12px; font-weight:500;">
+    <img src='/logos/foss-modified.png' alt="FOSS Logo" style="height: 30px; margin-right: 8px; filter: brightness(0) invert(1);" />
+      Visit
+    </span>
+    <span style="background-color: purple; color: white; display: flex; align-items: center; padding: 0 14px; font-weight:700;">
+      Foss Community
+    </span>
+  </span>
+</a>
+
 </div>
 
 ## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">🌱 Event Gallery</span>

@@ -17,6 +17,7 @@ const Nav = () => {
   const dropdownRef = useRef([]);
   const dropDownButtons = useRef([]);
   const pathname = usePathname();
+  const isHomePage = pathname === "/";
   const menu = [
     {
       id: 1,
@@ -199,7 +200,7 @@ const Nav = () => {
               ref={setDropDownRef(2)}
               className={`origin-top-right absolute -right-10 md:right-0 md:left-0 mt-2 w-72 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
                 openDropdown === "departments" ? "block" : "hidden"
-              }`}
+              } ${isHomePage ? "-right-10" : "-right-2"}`}
             >
               <Link
                 href="/departments/cse"
@@ -255,9 +256,9 @@ const Nav = () => {
             </button>
             <div
               ref={setDropDownRef(3)}
-              className={`absolute -right-10 max-md:-right-2 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
+              className={`absolute -right-10 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
                 openDropdown === "clubs" ? "block" : "hidden"
-              }`}
+              } ${isHomePage ? "max-md:-right-2" : "max-md:-right-[4rem]"}`}
             >
                <Link
                 href="/clubs/foss"
