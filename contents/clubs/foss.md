@@ -13,7 +13,7 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/open-source-intro.jpg" alt="Intro to Open Source" style="width: 100%; margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/open-source-intro.jpg" alt="Intro to Open Source" style="width: 100%; margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
 <h3 style="margin-top: 0; color: black;">Intro to Open Source</h3>
 <p style="color: #666; font-size: 0.9em;">Oct 18, 2024 | Seminar Hall</p>
@@ -27,7 +27,7 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/foss-orientation.jpg" alt="FOSS Orientation" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/foss-orientation.jpg" alt="FOSS Orientation" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
 <h3 style="margin-top: 0; color: black;">FOSS Orientation</h3>
 <p style="color: #666; font-size: 0.9em;">Sep 26, 2024 | EMS Hall</p>
@@ -41,7 +41,7 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/githive.jpg" alt="GitHive Workshop" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/githive.jpg" alt="GitHive Workshop" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
 <h3 style="margin-top: 0; color: black;">GitHive Workshop</h3>
 <p style="color: #666; font-size: 0.9em;">Oct 4 & 13, 2024 | Online</p>

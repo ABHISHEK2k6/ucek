@@ -13,9 +13,9 @@ IEEE SB UCEK is one of the most active IEEE communities in the Trivandrum Hub. S
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/code-force.jpg" alt="Code Forge Hackathon" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/code-force.jpg" alt="Code Forge Hackathon" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
-<h3 style="margin-top: 0; color: #00629B;">Code Forge Hackathon</h3>
+<h3 style="margin-top: 0; color: black;">Code Forge Hackathon</h3>
 <p style="color: #666; font-size: 0.9em;">Feb 10, 2024</p>
 <ul style="padding-left: 20px; margin-bottom: 0;">
 <li>24-hour coding marathon</li>
@@ -26,9 +26,9 @@ IEEE SB UCEK is one of the most active IEEE communities in the Trivandrum Hub. S
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/tech.jpg" alt="Tech Unleashed" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/tech.jpg" alt="Tech Unleashed" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
-<h3 style="margin-top: 0; color: #00629B;">Tech Unleashed</h3>
+<h3 style="margin-top: 0; color: black;">Tech Unleashed</h3>
 <ul style="padding-left: 20px; margin-bottom: 0;">
 <li>AI/ML & Cybersecurity</li>
 <li>Hands-on workshops</li>
@@ -38,9 +38,9 @@ IEEE SB UCEK is one of the most active IEEE communities in the Trivandrum Hub. S
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/panel.jpg" alt="WIE Panel Discussion" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/panel.jpg" alt="WIE Panel Discussion" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
-<h3 style="margin-top: 0; color: #00629B;">WIE Panel Discussion</h3>
+<h3 style="margin-top: 0; color: black;">WIE Panel Discussion</h3>
 <p style="color: #666; font-size: 0.9em;">Jul 4, 2024</p>
 <p style="font-weight: 500;">"Her Career: From Passion to Profession"</p>
 <ul style="padding-left: 20px; margin-bottom: 0;">
@@ -52,9 +52,9 @@ IEEE SB UCEK is one of the most active IEEE communities in the Trivandrum Hub. S
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/c-program.jpg" alt="C Programming Workshop" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<img src="/clubs/c-program.jpg" alt="C Programming Workshop" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
 <div style="padding:0px 15px;">
-<h3 style="margin-top: 0; color: #00629B;">Ryokei Tenkai</h3>
+<h3 style="margin-top: 0; color: black;">Ryokei Tenkai</h3>
 <p style="color: #666; font-size: 0.9em;">Mar 24-25, 2025</p>
 <ul style="padding-left: 20px; margin-bottom: 0;">
 <li>C Programming</li>
