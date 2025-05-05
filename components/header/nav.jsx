@@ -260,7 +260,7 @@ const Nav = () => {
               }`}
             >
                <Link
-                href="#"
+                href="/clubs/foss"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
                  <Image src={"/logos/foss.png"} width={30} height={30} alt="logo"/>
@@ -275,7 +275,7 @@ const Nav = () => {
                 Google DSC
               </Link>
               <Link
-                href="#"
+                href="/clubs/ieee"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                  <Image src={"/logos/ieee.png"} width={30} height={30} alt="logo"/>
