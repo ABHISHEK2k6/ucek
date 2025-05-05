@@ -3,86 +3,79 @@ FOSS Club
 ### <span style="color: black; font-weight: 500;">Empowering Students Through Open Source</span>
 
 <div style="background: #f5f9f5; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center;">
-The FOSS Club at University College of Engineering Karyavattom (UCEK) is a vibrant community dedicated to promoting Free and Open Source Software (FOSS) among students. Through engaging workshops and hands-on activities, we foster collaboration, innovation, and technical excellence.
+The FOSS Club at UCEK fosters open-source innovation through hands-on workshops and collaborative learning. Our community empowers students with practical skills and connects them with global open-source opportunities.
 
-[![Join Us](https://img.shields.io/badge/Join-FOSS_Community-purple?style=for-the-badge&logo=opensourceinitiative)](https://fossucek.tech/)
+[![Join Us](https://img.shields.io/badge/Join-FOSS_Community-purple?style=for-the-badge&logo=github)](https://example.com)
 </div>
 
-## <span style="color: black; border-bottom: 2px solid #3DA639; padding-bottom: 5px;">🌱 Leadership Team</span>
+## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">🌱 Event Gallery</span>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-<div style="flex: 1; min-width: 200px; background: #f5f9f5; padding: 15px; border-radius: 8px;">
-<strong style="color: black;">👩‍🏫 Program Officer</strong><br>
-Sabeena Mam
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="/clubs/open-source-intro.jpg" alt="Intro to Open Source" style="width: 100%; margin:-26px 0px; height: 200px; object-fit: cover;">
+<div style="padding:0px 15px;">
+<h3 style="margin-top: 0; color: black;">Intro to Open Source</h3>
+<p style="color: #666; font-size: 0.9em;">Oct 18, 2024 | Seminar Hall</p>
+<ul style="padding-left: 20px; margin-bottom: 0;">
+<li>Speaker: Ms. Meharuniza (ICFOSS)</li>
+<li>4 essential freedoms of FOSS</li>
+<li>Global career opportunities</li>
+<li>60+ attendees</li>
+</ul>
+</div>
 </div>
 
-<div style="flex: 1; min-width: 200px; background: #f5f9f5; padding: 15px; border-radius: 8px;">
-<strong style="color: black;">👨‍💻 Student Coordinator</strong><br>
-Alif Muhammed N
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="/clubs/foss-orientation.jpg" alt="FOSS Orientation" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<div style="padding:0px 15px;">
+<h3 style="margin-top: 0; color: black;">FOSS Orientation</h3>
+<p style="color: #666; font-size: 0.9em;">Sep 26, 2024 | EMS Hall</p>
+<ul style="padding-left: 20px; margin-bottom: 0;">
+<li>"Truth & Lie" interactive game</li>
+<li>AI Prompt Challenge</li>
+<li>Chair: Isha Jagath</li>
+<li>4 Freedoms explained</li>
+</ul>
+</div>
 </div>
 
-<div style="flex: 1; min-width: 200px; background: #f5f9f5; padding: 15px; border-radius: 8px;">
-<strong style="color: black;">👩‍💻 Student Coordinator</strong><br>
-Malavika Sreekumar
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="/clubs/githive.jpg" alt="GitHive Workshop" style="width: 100%;margin:-26px 0px; height: 200px; object-fit: cover;">
+<div style="padding:0px 15px;">
+<h3 style="margin-top: 0; color: black;">GitHive Workshop</h3>
+<p style="color: #666; font-size: 0.9em;">Oct 4 & 13, 2024 | Online</p>
+<ul style="padding-left: 20px; margin-bottom: 0;">
+<li>GitHub fundamentals</li>
+<li>Hands-on repository setup</li>
+<li>Mentor: Adharsh Dev</li>
+<li>100M+ developers platform</li>
+</ul>
 </div>
 </div>
 
-## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">🚀 Key Events and Initiatives</span>
-
-### <span style="color: black;">FOSS Club Orientation</span> <small style="color: #666;">September 26, 2024</small>
-
-<!-- ![Orientation](/clubs/foss-orientation.jpg) -->
-
-- 🎮 Introduced freshers through interactive games
-- 🤔 Featured "Truth and Lie about FOSS" activity
-- 🖼️ Conducted AI "Prompt Challenge" competition
-- 👥 60+ students attended
-
----
-
-### <span style="color: black;">GitHive: GitHub Workshop</span> <small style="color: #666;">October 7 & 13, 2024</small>
-
-<!-- ![GitHub Workshop](/clubs/github-workshop.jpg) -->
-
-- 🔄 Two-part online session on version control
-- 📦 Covered repository creation and collaboration
-- 👨‍🏫 Led by Adharsh Dev (3rd year IT student)
-- 👩‍💻 Practical hands-on exercises
-
----
-
-### <span style="color:black;">Introduction to Open Source</span> <small style="color: #666;">October 18, 2024</small>
-
-<!-- ![Open Source Session](/clubs/open-source-talk.jpg) -->
-
-- 🎤 Speaker: Ms. Meharuniza (ICFOSS Research Associate)
-- 🗽 Explained open source philosophy and freedoms
-- 💬 Interactive Q&A session
-- 🌍 Inspired global project contributions
+</div>
 
 ## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">✨ Our Mission</span>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px 0;">
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-<strong style="color: black;">📜 Promote FOSS</strong><br>
-Advocating for free and open source solutions
+<strong style="color: black;">🔓 Open Knowledge</strong><br>
+Promote the four essential freedoms of FOSS
 </div>
 
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-<strong style="color: black;">🛠️ Develop Skills</strong><br>
-Building practical technical competencies
+<strong style="color: black;">👩‍💻 Skill Building</strong><br>
+Develop practical GitHub and collaboration skills
 </div>
 
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-<strong style="color: black;">👥 Foster Collaboration</strong><br>
-Creating a supportive learning community
+<strong style="color: black;">🌐 Global Community</strong><br>
+Connect students with open-source projects worldwide
 </div>
 
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-<strong style="color: black;">🌉 Bridge Academia</strong><br>
-Connecting classroom knowledge with real-world applications
+<strong style="color: black;">🤝 Collaborative Learning</strong><br>
+Foster peer-to-peer knowledge sharing
 </div>
 </div>
-
-> <span style="font-size: 1.1em;">"The FOSS Club has completely changed my perspective on software development."</span>  
-> <span style="color: #666; font-style: normal;">— 2nd year CS student</span>

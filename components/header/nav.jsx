@@ -255,7 +255,7 @@ const Nav = () => {
             </button>
             <div
               ref={setDropDownRef(3)}
-              className={`absolute -right-10 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
+              className={`absolute -right-10 max-md:-right-2 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
                 openDropdown === "clubs" ? "block" : "hidden"
               }`}
             >
