@@ -14,6 +14,7 @@ import Link from "next/link";
 
 const Nav = () => {
   const [openDropdown, setOpenDropdown] = useState(null);
+  const [isNearViewportEdge, setIsNearViewportEdge] = useState(false);
   const dropdownRef = useRef([]);
   const dropDownButtons = useRef([]);
   const pathname = usePathname();
@@ -198,9 +199,9 @@ const Nav = () => {
             </button>
             <div
               ref={setDropDownRef(2)}
-              className={`origin-top-right absolute -right-10 md:right-0 md:left-0 mt-2 w-72 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
+              className={`origin-top-right absolute -right-10 md:right-0 md:left-0 mt-2 w-72 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg department ${
                 openDropdown === "departments" ? "block" : "hidden"
-              } ${isHomePage ? "-right-10" : "-right-2"}`}
+              } ${isHomePage ? "-right-10 home-dep" : "right-1 nothome-dep"}`}
             >
               <Link
                 href="/departments/cse"
@@ -234,7 +235,7 @@ const Nav = () => {
           </div>
           <div className="relative">
             <button
-              ref={setButtonRef(2)}
+              ref={setButtonRef(4)}
               onClick={() => handleDropdownToggle("clubs")}
               className="text-gray-600 hover:text-gray-800 flex items-center"
             >
@@ -256,9 +257,9 @@ const Nav = () => {
             </button>
             <div
               ref={setDropDownRef(3)}
-              className={`absolute -right-10 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg ${
+              className={`absolute -right-10 md:left-0 mt-2 w-44 bg-white border rounded-xl md:text-[14px] text-[12px] z-30 shadow-lg dropdown‑clubs ${
                 openDropdown === "clubs" ? "block" : "hidden"
-              } ${isHomePage ? "max-md:-right-2" : "max-md:-right-[4rem]"}`}
+              } ${isHomePage ? "max-md:right-1" : "max-md:-right-[5rem]"}`}
             >
                <Link
                 href="/clubs/foss"
