@@ -57,6 +57,12 @@ body {
   }
 }
 
+@media (max-width: 386px) {
+  .nothomeclub {
+    left: -1rem;
+  }
+}
+
 @media (max-width: 335px) {
   .department {
     right: 0;
@@ -124,4 +130,10 @@ body {
 }
 .achievements-table td:nth-child(3) {
   text-align: left;
+}
+
+@media (min-width: 422px) {
+  .facilities {
+    left: -6rem;
+  }
 }

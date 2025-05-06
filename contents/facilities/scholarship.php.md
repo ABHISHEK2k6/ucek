@@ -1,4 +1,6 @@
-<h2>SCHOLARSHIP DETAILS</h2>
+SCHOLARSHIP DETAILS
+
+
 <p>The students belonging to SC/ST/OEC and SEBC category are eligible for fee concession/stipend/lump sum grant etc. as per the norms stipulated by the Govt. of Kerala. </p>
 <table border="1">
 <tr><td><h2>Sl No.</h2></td> <td><h2>Scholarship</h2></td><td><h2>Website</h2></td></tr>
@@ -15,10 +17,8 @@
 <tr>
 <td style="text-align:left"><p align="left" style="margin-top:8px;">University College of Engineering, Kariavattom, Thiruvananthapuram </p></td>
 <td><p>Visitors : 
-
-            4533            
-
-            </p></td>
+4533
+</p></td>
 <td style="text-align:right;"><p style="text-align:right;">Designed and Developed by <a href="http://kucc.keralauniversity.ac.in/" target="_blank">Computer Centre, University of Kerala</a></p></td>
 </tr>
 </table>
