@@ -19,6 +19,21 @@ Legacy IEDC UCEK is the premier innovation hub at University College of Engineer
 
 </div>
 
+## What is Innovation and Entrepreneurship Development Centre?
+
+The Innovation and Entrepreneurship Development Centres (IEDCs) are platforms set up by Kerala Startup Mission in Engineering, Management, Arts & Science Colleges, Medical Institutions, Polytechnics and Universities with an aim to provide students with an opportunity to experiment and innovate. They provide avenues for creative students to learn, collaborate and transform their innovative ideas into prototypes of viable products and services.
+
+## What is Legacy IEDC UCEK?
+
+IEDC-UCEK was set up by the Kerala Startup Mission in the University College of Engineering as part of establishing Innovation and Entrepreneurship Development Centres (IEDCs) all around Kerala in various colleges to promote the culture of startups and to instil the concept of entrepreneurship among students. We branded our IEDC as 'Legacy-IEDC-UCEK' and it serves primarily as a catalyst for entrepreneurship at the institute.
+
+IEDCs work as the first launch pad for a student's entrepreneurial journey and provide them with access to:
+- Cutting-edge technology
+- World-class infrastructure
+- High-quality mentorship
+- Early risk capital
+- Global exposure
+
 ## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">🌟 Event Gallery</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
@@ -100,18 +115,3 @@ Bridging gap between academia and industry
 Creating ecosystem for continuous innovation
 </div>
 </div>
-
-## What is Innovation and Entrepreneurship Development Centre?
-
-The Innovation and Entrepreneurship Development Centres (IEDCs) are platforms set up by Kerala Startup Mission in Engineering, Management, Arts & Science Colleges, Medical Institutions, Polytechnics and Universities with an aim to provide students with an opportunity to experiment and innovate. They provide avenues for creative students to learn, collaborate and transform their innovative ideas into prototypes of viable products and services.
-
-## What is Legacy IEDC UCEK?
-
-IEDC-UCEK was set up by the Kerala Startup Mission in the University College of Engineering as part of establishing Innovation and Entrepreneurship Development Centres (IEDCs) all around Kerala in various colleges to promote the culture of startups and to instil the concept of entrepreneurship among students. We branded our IEDC as 'Legacy-IEDC-UCEK' and it serves primarily as a catalyst for entrepreneurship at the institute.
-
-IEDCs work as the first launch pad for a student's entrepreneurial journey and provide them with access to:
-- Cutting-edge technology
-- World-class infrastructure
-- High-quality mentorship
-- Early risk capital
-- Global exposure
