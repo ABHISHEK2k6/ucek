@@ -1,6 +1,6 @@
 FOSS Club
 
-### <span style="color: black; font-weight: 500;">Empowering Students Through Open Source</span>
+### <span style="color: black; font-weight: 600;text-align: center; display:block;">Empowering Students Through Open Source</span>
 
 <div style="background: #f5f9f5; display:flex; padding: 20px;flex-direction:column; border-radius: 8px; margin: 20px 0; text-align: center; align-items:center;">
 The FOSS Club at UCEK fosters open-source innovation through hands-on workshops and collaborative learning. Our community empowers students with practical skills and connects them with global open-source opportunities.

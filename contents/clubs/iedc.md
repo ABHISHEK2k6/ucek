@@ -1,6 +1,6 @@
 Legacy IEDC
 
-## <span style="color: black; font-weight: 500;">Fostering Innovation & Entrepreneurship</span>
+## <span style="color: black; font-weight: 600;text-align: center; display:block;">Fostering Innovation & Entrepreneurship</span>
 
 <div style="background: #f5f9fc; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; display:flex; flex-direction:column; align-items:center;">
 Legacy IEDC UCEK is the premier innovation hub at University College of Engineering, established by Kerala Startup Mission. Since our inception, we've nurtured 50+ student startups and conducted 100+ innovation workshops.
