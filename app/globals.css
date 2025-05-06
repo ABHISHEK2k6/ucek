@@ -51,6 +51,12 @@ body {
   }
 }
 
+@media (min-width: 386px) {
+  .nothomeclub {
+    left: -8rem;
+  }
+}
+
 @media (max-width: 335px) {
   .department {
     right: 0;
