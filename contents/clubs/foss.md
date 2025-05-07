@@ -70,6 +70,20 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
 </div>
 
 <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="/clubs/foss-orientation.jpg" alt="FOSS Orientation" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
+<div style="padding:0px 15px;">
+<h3 style="margin-top: 0; color: black;">FOSS Orientation</h3>
+<p style="color: #666; font-size: 0.9em;">Sep 26, 2024 | EMS Hall</p>
+<ul style="padding-left: 20px; margin-bottom: 0;">
+<li>"Truth & Lie" interactive game</li>
+<li>AI Prompt Challenge</li>
+<li>Chair: Isha Jagath</li>
+<li>4 Freedoms explained</li>
+</ul>
+</div>
+</div>
+
+<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <img src="/clubs/error418-hackathon.png" alt="ERROR_418 Hackathon" style="width: 100%; margin:-26px 0px 10px 0px; height: 200px; object-fit: cover; object-position: 50% 1.5rem;">
   <div style="padding:0px 15px;">
     <h3 style="margin-top: 0; color: black;">ERROR_418 Hackathon</h3>
@@ -83,20 +97,6 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
       <li>Free entry; sponsored by UCEK, AKEF, Unibics, FM Grills</li>
     </ul>
   </div>
-</div>
-
-<div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<img src="/clubs/foss-orientation.jpg" alt="FOSS Orientation" style="width: 100%;margin:-26px 0px 10px 0px; height: 200px; object-fit: cover;">
-<div style="padding:0px 15px;">
-<h3 style="margin-top: 0; color: black;">FOSS Orientation</h3>
-<p style="color: #666; font-size: 0.9em;">Sep 26, 2024 | EMS Hall</p>
-<ul style="padding-left: 20px; margin-bottom: 0;">
-<li>"Truth & Lie" interactive game</li>
-<li>AI Prompt Challenge</li>
-<li>Chair: Isha Jagath</li>
-<li>4 Freedoms explained</li>
-</ul>
-</div>
 </div>
 
 </div>
