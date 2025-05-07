@@ -30,5 +30,5 @@ COLLEGE BUS
   </ul>
 
   <p style="margin-top: 1rem; font-size: 15px;">
-    The college bus can be used only by those who hold the bus pass..Bus pass can be had from the office by applying in the prescribed form along with the fee and a passport size photograph.
+    The college bus can be used only by those who hold a bus pass. A bus pass can be obtained from the office by submitting the prescribed application form along with the fee and a passport-size photograph.
   </p>

@@ -12,7 +12,7 @@ Legacy IEDC UCEK is the premier innovation hub at University College of Engineer
       Visit
     </span>
     <span style="background-color:#FF6B00; color: white; display: flex; align-items: center; padding: 0 14px; font-weight:700;">
-      IEDCUCEK.IN
+      iedc.uck.ac.in
     </span>
   </span>
 </a>

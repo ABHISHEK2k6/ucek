@@ -12,8 +12,7 @@
       Visit
     </span>
     <span style="background-color:#ae59ff; color: white; display: flex; align-items: center; padding: 0 14px; font-weight:700; ">
-    <img src="/logos/mulearn.png" alt="µ" style="height: 1.5rem; filter: brightness(0) invert(1); margin-right:-5px; margin-top:1.9rem;" />
-    LEARN
+      mulearn.uck.ac.in
     </span>
   </span>
 </a>

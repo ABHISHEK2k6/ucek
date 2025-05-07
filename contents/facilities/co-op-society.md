@@ -2,7 +2,7 @@ CO-OPERATIVE SOCIETY
 
 
   <p style="font-size: 15px;">
-    The Co-operative Society at UCEK plays a key role in meeting the academic and everyday needs of students and staff by providing essential supplies and services on campus. Operated under the Co-operative Act with a transparent and student-oriented approach, it offers a wide selection of items such as stationery, notebooks, drawing tools, lab records, exam materials, office consumables, and general utility products at affordable prices. Facilities like a Xerox machine and STD/ISD telephone booth support communication and documentation needs, especially during exams and project work. The society is overseen by a committee of staff and student representatives, ensuring efficient, student-focused management.
+    The Co-operative Society at UCEK plays a key role in meeting the academic and everyday needs of students and staff by providing essential supplies and services on campus. Operated under the Co-operative Act with a transparent and student-oriented approach, it offers a wide selection of items such as stationery, notebooks, drawing tools, lab records, exam materials, office consumables, and general utility products at affordable prices. Facilities like a Xerox machine are provided for documentation needs, especially during exams and project work. The society is overseen by a committee of staff and student representatives, ensuring efficient, student-focused management.
 
   </p>
 
@@ -13,7 +13,6 @@ CO-OPERATIVE SOCIETY
     <li>Affordable prices for students and staff</li>
     <li>Stationery and exam materials available year-round</li>
     <li>Photocopying (Xerox) service for assignments, notes, and records</li>
-    <li>STD/ISD telephone booth for communication</li>
     <li>Prompt service and well-maintained inventory</li>
   </ul>
 

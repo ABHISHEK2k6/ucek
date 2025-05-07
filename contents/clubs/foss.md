@@ -13,7 +13,7 @@ The FOSS Club at UCEK fosters open-source innovation through hands-on workshops 
       Visit
     </span>
     <span style="background-color: purple; color: white; display: flex; align-items: center; padding: 0 14px; font-weight:700;">
-      Foss Community
+      fossucek.tech
     </span>
   </span>
 </a>
