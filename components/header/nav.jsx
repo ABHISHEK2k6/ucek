@@ -291,7 +291,7 @@ const Nav = () => {
                 Legacy IEDC
               </Link>
               <Link
-                href="#"
+                href="/clubs/mulearn"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
               <Image src={"/logos/mulearn.png"} width={30} height={30} alt="logo"/>
@@ -379,12 +379,12 @@ const Nav = () => {
               >
                 Scholarship
               </Link>
-              <Link
+              {/* <Link
                 href="/facilities/store-facility"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
                 Store Facility
-              </Link>
+              </Link> */}
               <Link
                 href="/facilities/wifi-facility"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"

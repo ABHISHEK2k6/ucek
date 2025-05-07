@@ -1,18 +1,10 @@
 COLLEGE BUS
 
-<section style="background-color: #f9f9f9; padding: 1rem; border-radius: 12px; font-family: Arial, sans-serif; line-height: 1.6; margin-left: -1rem; margin-right: -1rem;">
-  <h2 style="text-align: center; color: #2c3e50; font-size: 1.8rem; margin-bottom: 1rem; margin-top:-0.2rem;">🚌 College Transport Facility</h2>
 
-  <div style="font-size: 17px;">
+  <div style="font-size: 15px;">
     <p>
-      The College Transport Division at UCEK provides safe and reliable transportation for students and staff. Two well-maintained buses operate across two major routes covering the essential areas of Thiruvananthapuram city, ensuring convenient and affordable commuting.
-    </p>
-    <p>
-      Students can avail the bus service by purchasing a monthly bus pass from the college office by submitting a passport-size photo and prescribed fee. Occasional users may also travel by buying a one-time ticket costing ₹15 per journey.
-    </p>
-    <p>
-      Buses are managed and operated under the supervision of college authorities, ensuring timely service and hassle-free travel. They are also made available for special purposes such as industrial visits, academic tours, and student events.
-    </p>
+      The College Transport Division at UCEK ensures safe and convenient commuting for students and staff through two well-maintained buses that cover key areas across Thiruvananthapuram city. Students can avail College bus facility by taking passes for one month. Occasional users may travel by purchasing a ₹15 ticket per ride. Operated under the supervision of college authorities, the transport service guarantees punctuality and reliability, and the buses are also available for special purpose for students and staff.
+      </p>
   </div>
 
   <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">🗺️ Bus Routes</h3>
@@ -38,6 +30,5 @@ COLLEGE BUS
   </ul>
 
   <p style="margin-top: 1rem; font-size: 15px;">
-    The transport facility at UCEK ensures student safety, punctuality, and ease of access to the college campus—making daily commuting more convenient and structured.
+    The college bus can be used only by those who hold the bus pass..Bus pass can be had from the office by applying in the prescribed form along with the fee and a passport size photograph.
   </p>
-</section>

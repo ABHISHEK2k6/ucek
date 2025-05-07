@@ -1,19 +1,8 @@
 CENTRAL LIBRARY
 
-<section style="background-color: #f9f9f9; padding: 1rem; margin-left:-1rem; margin-right:-1rem; border-radius: 12px; font-family: Arial, sans-serif; line-height: 1.6;">
-  <h2 style="text-align: center; color: #2c3e50; font-size: 1.8rem; margin-bottom: 1rem; margin-top:0rem;">📚 Central Library</h2>
+  <p style="font-size: 15px;">
+    The college library houses a vast collection of technical books and subscribes to numerous leading journals and magazines, including access to national and international journals via the University Campus network at Kariavattom. It is one of the largest technical libraries in the state capital and the first among engineering colleges in Kerala to automate its housekeeping operations. The library includes separate lending and reference sections, offering a wide range of titles across all engineering disciplines. Open to all students and staff during working hours, it plays a key role in supporting the institution’s educational and research missions by providing access to both printed and digital resources.
 
-  <p>
-    The college library boasts a rich collection of technical books and subscribes to numerous national and international journals and magazines. With access to online academic resources through the University Campus at Kariavattom, students are equipped with a powerful research environment.
-  </p>
-  <p>
-    Recognized as one of the largest among engineering colleges in the State Capital, our library is fully automated and was the first to implement computerized housekeeping operations among Kerala's engineering colleges.
-  </p>
-  <p>
-    Well-stocked with books across all engineering disciplines, the library includes separate lending and reference sections, and provides open access to both students and faculty during working hours.
-  </p>
-  <p>
-    The journal section features prominent technical periodicals. Our collection includes both printed and digital resources that support the institution’s academic, research, and service missions.
   </p>
 
   <h3 style="margin-top: 1.5rem; color: #2c3e50;">📖 Library Sections</h3>
@@ -45,4 +34,3 @@ CENTRAL LIBRARY
     <li><strong>Monday to Friday:</strong> 10:00 AM to 5:00 PM</li>
     <li><strong>Closed on:</strong> Saturdays, Sundays, Government and Institutional Holidays</li>
   </ul>
-</section>
